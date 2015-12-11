@@ -1,4 +1,4 @@
-A docker image to run scrapers written using [Scrapy Framework](http://scrapy.org/). 
+A docker image to run scrapers using [Scrapy Framework](http://scrapy.org/). 
 It includes supervisord, so that you can mount the volume for supervisor's config dir, in order to monitor and control your scrapers or any other process in your app.
 
 ## Usage
